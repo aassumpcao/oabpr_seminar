@@ -1,0 +1,13 @@
+# agenda para seminário
+
+1. a análise quantitativa do direito é útil?
+    1. exemplo com direito eleitoral da minha tese;
+    2. comparar uma análise com poucos casos com muitos casos.
+2. como fazer análise quantitativa do direito:
+    1. obtenção dos dados;
+    2. perguntas relevantes;
+    3. estatística.
+4. nível avançado: processamento de linguagem natural
+    1. exemplo em inglês.
+    2. exemplo em português.
+5. perguntas e respostas.
