@@ -3,3 +3,5 @@ numpy
 selenium
 bs4
 lxml
+spacy
+
