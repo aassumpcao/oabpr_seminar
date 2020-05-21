@@ -2,3 +2,4 @@ pandas
 numpy
 selenium
 bs4
+lxml
