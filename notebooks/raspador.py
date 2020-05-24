@@ -82,7 +82,7 @@ def main():
     for i, url in enumerate(documentos_link):
         sys.stdout.write(f'raspando RCAND #{i+1:02d}         \r')
         sys.stdout.flush()
-        raspador.decision(url=url, filename=f'decisão_{i}')
+        raspador.decision(url=url, filename=f'../dados/decisão_{i}')
 
     # avisar conclusão
     sys.stdout.write(f'raspagem concluída.              \r')
