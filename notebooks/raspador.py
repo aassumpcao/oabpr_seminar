@@ -44,6 +44,7 @@ def abrir_navegador():
 
     return browser
 
+# definir função principal
 def main():
 
     # executar funções
@@ -92,5 +93,4 @@ def main():
     browser.quit()
 
 # executar bloco principal
-if __name__ == '__main__':
-    main()
+if __name__ == '__main__': main()
